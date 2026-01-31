@@ -1,6 +1,6 @@
 Hi there, I'm Bommu Vamsi 👋
 
-[Software Engineer] | [Your Specialization] | [Your Key Interest]
+Software Engineer | [Your Specialization] | [Your Key Interest]
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -28,7 +28,7 @@ Hi there, I'm Bommu Vamsi 👋
 💬 Ask me about [Topics you are expert in]
 
 •
-📫 How to reach me: [Email/LinkedIn/Twitter]
+📫 How to reach me: (https://www.linkedin.com/in/bommuvamsi/)
 
 •
 ⚡ Fun fact: [Something interesting about you]
