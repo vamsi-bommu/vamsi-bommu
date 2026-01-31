@@ -1,6 +1,6 @@
-Hi there, I'm [Your Name] 👋
+Hi there, I'm Bommu Vamsi 👋
 
-[Your Role] | [Your Specialization] | [Your Key Interest]
+[Software Engineer] | [Your Specialization] | [Your Key Interest]
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -13,13 +13,13 @@ Hi there, I'm [Your Name] 👋
 📖 About Me
 
 •
-🔭 I’m currently working on [Project Name]
+🔭 I’m currently working on Anomaly Detection
 
 •
-🌱 I’m currently learning [Technology/Skill]
+🌱 I’m currently learning React
 
 •
-👯 I’m looking to collaborate on [Project Type/Field]
+👯 I’m looking to collaborate on Anomaly Detection
 
 •
 🤔 I’m looking for help with [Specific Problem/Topic]
@@ -159,7 +159,7 @@ Post Title 3
 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/[YourUsername]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourUsername]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[bommuvamsi]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[bommuvamsi]" height="30" width="40" /></a>
   <a href="https://twitter.com/[YourUsername]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YourUsername]" height="30" width="40" /></a>
   <a href="https://medium.com/@[YourUsername]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="[YourUsername]" height="30" width="40" /></a>
 </p>
