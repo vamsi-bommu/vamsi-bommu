@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+%5BVamsi+Bommu%5D+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+%5Vamsi+Bommu%5D+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,12 +28,10 @@
 🛠️ Tech Stack
 💻 Programming Languages
 <p align="left">
-  <a href="https://github.com/search?q=user%3AYOUR_USERNAME+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/search?q=user%3AYOUR_USERNAME+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AYOUR_USERNAME+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AYOUR_USERNAME+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AYOUR_USERNAME+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AYOUR_USERNAME+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 </p>
 🌐 Frontend Development
 <p align="left">
@@ -55,65 +53,56 @@
 </p>
 🗄️ Databases
 <p align="left">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+ 
 </p>
-☁️ DevOps & Cloud
-<p align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-</p>
+
 🧰 Tools & Platforms
 <p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vamsi-bommu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-bommu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-bommu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
+
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-bommu&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vamsi-bommu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=vamsi-bommu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </p>
 💼 Featured Projects
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/project-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/vamsi-bommu/project-1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsi-bommu&repo=project-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project-2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/vamsi-bommu/project-2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsi-bommu&repo=project-2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/project-3">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-3&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/vamsi-bommu/project-3">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsi-bommu&repo=project-3&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project-4">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-4&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/vamsi-bommu/project-4">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsi-bommu&repo=project-4&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 📝 Latest Blog Posts
@@ -152,13 +141,14 @@ Getting Started with Microservices
 </p>
 💰 Support My Work
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/vamsi-bommu" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
   </a>
-  <a href="https://github.com/sponsors/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/sponsors/vamsi-bommu" target="_blank">
     <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" height="50" width="210" />
   </a>
 </p>
+
 📅 Coding Stats
 <!--START_SECTION:waka-->
 Text
@@ -168,6 +158,7 @@ TypeScript   5 hrs 15 mins   ██████░░░░░░░░░░░
 Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.30%
 Other        2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.95%
 <!--END_SECTION:waka-->
+
 🎵 Now Playing
 <p align="center">
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY">
@@ -177,9 +168,9 @@ Other        2 hrs 10 mins   ██░░░░░░░░░░░░░░░
 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamsi-bommu/vamsi-bommu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vamsi-bommu/vamsi-bommu/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vamsi-bommu/vamsi-bommu/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 💭 Dev Quote
