@@ -2,28 +2,28 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header banner" />
 </p>
+
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+%5BVamsi+Bommu%5D+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
+
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&color=0e75b6" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=vamsi-bommu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/vamsi-bommu?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/vamsi-bommu?label=Stars&style=flat&color=0e75b6" alt="stars" />
 </p>
 🚀 About Me
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381f.gif">
-🔭 I'm currently working on [Your Current Project]
-🌱 I'm currently learning [Technology/Framework]
+🔭 I'm currently working on Anomaly Detecction
+🌱 I'm currently learning React
 👯 I'm looking to collaborate on [Type of Projects]
 🤔 I'm looking for help with [Any Specific Area]
 💬 Ask me about [Your Expertise Areas]
-📫 How to reach me: [your.email@example.com]
-⚡ Fun fact: [Something Interesting About You]
-🎯 2025 Goals: [Your Goals for the Year]
+📫 How to reach me: [vamsibommu64@gmail.com]
 
 🛠️ Tech Stack
 💻 Programming Languages
