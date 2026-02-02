@@ -31,7 +31,7 @@
 
 💻 Programming Languages
 <p align="left">
-  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Apython"><img alt="Python" src="![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)"></a>
+  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Apython"><img alt="Python" src="![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)"></a>
   <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ajava"><img alt="C" src="![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)"></a>
   <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ago"><img alt="C++" src="![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)></a>
 </p>
