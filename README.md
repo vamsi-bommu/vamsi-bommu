@@ -29,10 +29,10 @@
 💻 Programming Languages
 <p align="left">
   <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ajava"><img alt="C" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ago"><img alt="C++" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 </p>
+
 🌐 Frontend Development
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -56,6 +56,8 @@
   
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft SQL Server-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
  
 </p>
 
@@ -67,6 +69,13 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
+Technologies
+<p align="left">
+   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power BI-100000?style=for-the-badge&logo=github&logoColor=white">
+  
+</p>
+
 📊 GitHub Stats
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vamsi-bommu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
