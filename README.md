@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+%5Vamsi+Bommu%5D+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Vamsi+Bommu+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,33 +16,51 @@
   <img src="https://img.shields.io/github/followers/vamsi-bommu?label=Followers&style=flat&color=0e75b6" alt="followers" />
   <img src="https://img.shields.io/github/stars/vamsi-bommu?label=Stars&style=flat&color=0e75b6" alt="stars" />
 </p>
+
 🚀 About Me
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381f.gif">
-🔭 I'm currently working on Anomaly Detecction
-🌱 I'm currently learning React
-👯 I'm looking to collaborate on [Type of Projects]
-🤔 I'm looking for help with [Any Specific Area]
-💬 Ask me about [Your Expertise Areas]
-📫 How to reach me: [vamsibommu64@gmail.com]
 
+- 🔭 I'm currently working on Anomaly Detecction
+- 💼 I'm a Software Engineer at Gain Insights
+- 🌱 I'm currently learning React
+- 👯 I'm looking to collaborate on [backend software engineering and Data Science projects]
+- 💬 Ask me about [Data Science]
+
+ 
 🛠️ Tech Stack
 💻 Programming Languages
 <p align="left">
   <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ajava"><img alt="C" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ago"><img alt="C++" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ajava"><img alt="C" src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Avamsi-bommu+language%3Ago"><img alt="C++" src="https://img.shields.io/badge/C++-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 </p>
 
-🌐 Frontend Development
-<p align="left">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</p>
+
+<h2> Libraries & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+
+   <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+
+   <a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+
+   <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+
+   <a href="https://matplotlib.org/" target="_blank">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+  </a>
+   <a href="https://seaborn.pydata.org/" target="_blank">
+    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  </a>
+   <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  </a>
+
 ⚙️ Backend Development
 <p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -97,6 +115,7 @@ Technologies
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=vamsi-bommu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </p>
+
 💼 Featured Projects
 <p align="center">
   <a href="https://github.com/vamsi-bommu/project-1">
@@ -114,24 +133,14 @@ Technologies
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsi-bommu&repo=project-4&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-How to Build Scalable Applications
-Understanding Design Patterns
-Getting Started with Microservices
-<!-- BLOG-POST-LIST:END -->
-📖 Read more blog posts...
+
+
 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/bommuvamsi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/YOUR_DEVTO" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
+
   <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
@@ -141,13 +150,15 @@ Getting Started with Microservices
   <a href="https://www.youtube.com/c/YOUR_YOUTUBE" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vamsibommu64@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+
 💰 Support My Work
 <p align="center">
   <a href="https://www.buymeacoffee.com/vamsi-bommu" target="_blank">
