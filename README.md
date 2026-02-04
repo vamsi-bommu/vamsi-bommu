@@ -107,33 +107,12 @@ Technologies
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-bommu&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vamsi-bommu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
+
 📈 Contribution Graph
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=vamsi-bommu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </p>
 
-💼 Featured Projects
-<p align="center">
-  <a href="https://github.com/vamsi-bommu/project-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsi-bommu&repo=project-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/vamsi-bommu/project-2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsi-bommu&repo=project-2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/vamsi-bommu/project-3">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsi-bommu&repo=project-3&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/vamsi-bommu/project-4">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsi-bommu&repo=project-4&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 
 🌐 Connect With Me
@@ -142,50 +121,13 @@ Technologies
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://www.youtube.com/c/YOUR_YOUTUBE" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
   <a href="mailto:vamsibommu64@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+  
 </p>
 
 
-💰 Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/vamsi-bommu" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
-  </a>
-  <a href="https://github.com/sponsors/vamsi-bommu" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" height="50" width="210" />
-  </a>
-</p>
-
-📅 Coding Stats
-<!--START_SECTION:waka-->
-Text
-Copy
-JavaScript   10 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.50%
-TypeScript   5 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25%
-Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.30%
-Other        2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.95%
-<!--END_SECTION:waka-->
-
-🎵 Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</p>
 🐍 Contribution Snake
 <p align="center">
   <picture>
@@ -209,11 +151,9 @@ Other        2 hrs 10 mins   ██░░░░░░░░░░░░░░░
 </p>
 <p align="center">
   <b>Thanks for visiting! 😊</b><br>
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  
 </p>
 <!-- 
-
-  
 
 -->
 <!-- Last Updated: 2026-02-01 -->
