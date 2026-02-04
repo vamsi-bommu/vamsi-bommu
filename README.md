@@ -1,14 +1,14 @@
-<!-- ================= HEADER ================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </p>
 
-<!-- ================= TYPING ================= -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vamsi+Bommu+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Always+Learning+New+Things+%F0%9F%93%9A" />
 </p>
 
-<!-- ================= COUNTERS ================= -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vamsi-bommu&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/vamsi-bommu?label=Followers&style=flat&color=0e75b6" />
@@ -17,19 +17,13 @@
 
 ---
 
-- 🔭 I'm currently working on Anomaly Detecction
-- 💼 I'm a Software Engineer at Gain Insights
-- 🌱 I'm currently learning React
-- 👯 I'm looking to collaborate on backend software engineering & Data Science projects
-- 💬 Ask me about Software Development & Data Science
-
 - 🔭 Currently working on **Anomaly Detection**
 - 💼 Software Engineer at **Gain Insights**
 - 🌱 Learning **React**
 - 👯 Looking to collaborate on **Backend & Data Science projects**
 - 💬 Ask me about **Python, Data Science, SQL**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +34,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
 </p>
 
----
 
 ### 📚 Libraries & Frameworks
 <p>
@@ -52,18 +45,16 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
 </p>
 
----
+
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+ 
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge" />
+ 
 </p>
 
----
+
 
 ### 🗄️ Databases
 <p>
@@ -72,7 +63,7 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
 </p>
 
----
+
 
 ### 🧰 Tools & Platforms
 <p>
@@ -83,7 +74,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
 </p>
 
----
+
 
 ### 🧠 Technologies
 <p>
@@ -91,7 +82,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -103,21 +94,21 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-bommu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
----
+
 
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-bommu&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
+
 
 ## 📊 Contribution Graph
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=vamsi-bommu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
----
+
 
 ## 🐍 Contribution Snake
 <p align="center">
@@ -128,21 +119,20 @@
   </picture>
 </p>
 
----
+
 
 ## 💭 Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
+
 
 ## 🎮 Fun Corner
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -154,7 +144,6 @@
   </a>
 </p>
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </p>
