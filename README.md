@@ -17,8 +17,11 @@
 
 ---
 
-## 🚀 About Me
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381f.gif" />
+- 🔭 I'm currently working on Anomaly Detecction
+- 💼 I'm a Software Engineer at Gain Insights
+- 🌱 I'm currently learning React
+- 👯 I'm looking to collaborate on backend software engineering & Data Science projects
+- 💬 Ask me about Software Development & Data Science
 
 - 🔭 Currently working on **Anomaly Detection**
 - 💼 Software Engineer at **Gain Insights**
