@@ -23,8 +23,8 @@
 - 🔭 I'm currently working on Anomaly Detecction
 - 💼 I'm a Software Engineer at Gain Insights
 - 🌱 I'm currently learning React
-- 👯 I'm looking to collaborate on [backend software engineering and Data Science projects]
-- 💬 Ask me about [Data Science]
+- 👯 I'm looking to collaborate on backend software engineering & Data Science projects
+- 💬 Ask me about Software Development & Data Science
 
  
 🛠️ Tech Stack
