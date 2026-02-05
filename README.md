@@ -110,19 +110,6 @@
 
 
 
-## 💭 Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-
-
-## 🎮 Fun Corner
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
-</p>
-
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/bommuvamsi">
