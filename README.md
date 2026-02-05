@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+ 
 </p>
 
 
@@ -86,13 +86,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vamsi-bommu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-bommu&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-bommu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-bommu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
 
 
 
@@ -102,11 +99,6 @@
 </p>
 
 
-
-## 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vamsi-bommu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
 
 
 
