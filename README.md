@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vamsi+Bommu+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Always+Learning+New+Things+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vamsi+Bommu+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;" />
 </p>
 
 
