@@ -25,9 +25,9 @@
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
@@ -35,7 +35,7 @@
 </p>
 
 
-### 📚 Libraries & Frameworks
+### Libraries & Frameworks
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NumPy-777BB4?logo=numpy&logoColor=white&style=for-the-badge" />
@@ -47,7 +47,7 @@
 
 
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
  
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
@@ -56,7 +56,7 @@
 
 
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
@@ -65,7 +65,7 @@
 
 
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
@@ -76,7 +76,7 @@
 
 
 
-### 🧠 Technologies
+### Technologies
 <p>
   <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
@@ -84,7 +84,7 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-bommu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -93,7 +93,7 @@
 
 
 
-## 📈 Activity Graph
+## Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-bommu&theme=tokyo-night&hide_border=true&area=true" />
 </p>
@@ -102,7 +102,7 @@
 
 
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/bommuvamsi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
