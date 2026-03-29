@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </p>
 
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" width="200" style="border-radius: 50%;" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vamsi+Bommu+%F0%9F%91%8B;" />
