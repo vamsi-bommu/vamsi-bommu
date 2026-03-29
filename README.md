@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="profile_pic.png" width="400" style="border-radius: 50%;" />
+  <img src="profile_pic.png" width="320" style="border-radius: 80%;" />
 </p>
 
 <p align="center">
