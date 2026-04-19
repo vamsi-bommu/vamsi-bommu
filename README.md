@@ -113,8 +113,8 @@
   <a href="mailto:vamsibommu64@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-   <a href="https://medium.com/@vamsibommu">
-  <img src="https://img.shields.io/badge/Medium-D14836?logo=medium&logoColor=black&style=for-the-badge" />
+   <a href="https://medium.com/@vamsibommu" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 </p>
 
