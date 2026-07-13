@@ -82,7 +82,6 @@
 ### Technologies
 <p>
   <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
 </p>
 
 
