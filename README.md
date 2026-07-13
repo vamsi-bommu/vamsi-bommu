@@ -22,7 +22,7 @@
 
 - 🔭 Currently working on **Anomaly Detection**
 - 💼 Software Engineer at **Gain Insights**
-- 🌱 Learning **React**
+- 🌱 Learning **Linux**
 - 👯 Looking to collaborate on **Backend & Data Science projects**
 - 💬 Ask me about **Python, Data Science, SQL**
 
