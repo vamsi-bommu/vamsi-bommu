@@ -22,7 +22,7 @@
 
 - 🔭 Currently working on **Anomaly Detection**
 - 💼 Software Engineer at **Gain Insights**
-- 🌱 Learning **Linux**
+- 🌱 Learning **Pyspark**
 - 👯 Looking to collaborate on **Full Stack, Data & AI projects**
 - 💬 Ask me about **Python, Data Science, SQL**
 
