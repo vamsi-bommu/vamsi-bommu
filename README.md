@@ -21,7 +21,7 @@
 ---
 
 - 🔭 Currently working on **E-commerce Application**
-- 💼 Software Engineer at **Gain Insights**
+- 💼 Associate Consultant at **Gain Insights**
 - 🌱 Learning **Pyspark**
 - 👯 Looking to collaborate on **Full Stack, Data & AI projects**
 - 💬 Ask me about **Python, Data Science, SQL**
