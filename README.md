@@ -20,7 +20,7 @@
 
 ---
 
-- 🔭 Currently working on **Anomaly Detection**
+- 🔭 Currently working on **E-commerce Application**
 - 💼 Software Engineer at **Gain Insights**
 - 🌱 Learning **Pyspark**
 - 👯 Looking to collaborate on **Full Stack, Data & AI projects**
