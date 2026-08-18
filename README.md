@@ -24,7 +24,6 @@
 - 💼 Associate Consultant at **Gain Insights**
 - 🌱 Learning **Linux**
 - 👯 Looking to collaborate on **Full Stack, Data & AI projects**
-- 💬 Ask me about **Python, Data Science, SQL**
 
 
 
