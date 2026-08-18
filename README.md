@@ -20,9 +20,9 @@
 
 ---
 
-- 🔭 Currently working on **E-commerce Application**
+- 🔭 Currently working on **RAG chatbot**
 - 💼 Associate Consultant at **Gain Insights**
-- 🌱 Learning **Pyspark**
+- 🌱 Learning ****
 - 👯 Looking to collaborate on **Full Stack, Data & AI projects**
 - 💬 Ask me about **Python, Data Science, SQL**
 
