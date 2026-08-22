@@ -37,15 +37,7 @@
 </p>
 
 
-### Libraries & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-777BB4?logo=numpy&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
-</p>
+
 
 
 
