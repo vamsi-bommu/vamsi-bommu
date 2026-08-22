@@ -106,6 +106,10 @@
    <a href="https://medium.com/@vamsibommu" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
+  <a href="https://substack.com/@vamsibommu" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+  
 </p>
 
 <p align="center">
