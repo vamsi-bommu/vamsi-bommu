@@ -36,11 +36,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
 </p>
 
-
-
-
-
-
 ### Backend Development
 <p>
  
@@ -48,16 +43,12 @@
  
 </p>
 
-
-
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
 </p>
-
-
 
 ### Tools & Platforms
 <p>
@@ -69,12 +60,10 @@
 </p>
 
 
-
 ### Technologies
 <p>
   <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge" />
 </p>
-
 
 
 ## GitHub Stats
@@ -84,16 +73,10 @@
 </p>
 
 
-
-
 ## Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-bommu&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
-
-
-
 
 ## Connect With Me
 <p align="center">
@@ -111,6 +94,7 @@
   </a>
   
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
