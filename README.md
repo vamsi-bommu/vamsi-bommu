@@ -22,7 +22,7 @@
 
 - 🔭 Currently working on **RAG chatbot**
 - 💼 Associate Consultant at **Gain Insights**
-- 🌱 Learning **Linux**
+- 🌱 Learning **Automation**
 - 👯 Looking to collaborate on **Full Stack, Data & AI projects**
 
 
